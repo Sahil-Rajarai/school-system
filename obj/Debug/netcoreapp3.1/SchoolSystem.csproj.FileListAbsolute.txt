@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.exe
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.deps.json
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.json
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\Users\Lenovo\Documents\SchoolSystem\bin\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.dll
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.pdb
+C:\Users\Lenovo\Documents\SchoolSystem\obj\Debug\netcoreapp3.1\SchoolSystem.genruntimeconfig.cache
